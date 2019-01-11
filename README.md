@@ -4,7 +4,7 @@
 ## online study
 
 - [] [써니나타스](suninatas.md)
-- [] [System32]{system32.md}
+- [] [System32](system32.md)
 
 ## offline study
 
