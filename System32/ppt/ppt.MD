@@ -4,7 +4,7 @@
 
 ### Forensics - PPT
 
-![Problem](./problem.png)
+![Problem](./problem.jpg)
 
 <br><br>
 이 문제는 150점 문제입니다.
