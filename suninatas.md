@@ -1,6 +1,6 @@
 ## 문제풀이
 
-** 써니나타스 suninatas **
+** 써니나타스 suninatas.com **
 
 ##### web부분 [1번 문제](suninatas/web/1/Web1.MD)
 ##### web부분 [2번 문제](suninatas/web/2/Web2.MD)
