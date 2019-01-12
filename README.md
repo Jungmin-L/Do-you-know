@@ -3,10 +3,10 @@
 
 ## online study
 
-- [ ] [WebHacking](webhacking.md)
-- [ ] [써니나타스](suninatas.md)
-- [ ] [System32](system32.md)
+- [ ] [WebHacking](guide/webhacking.md)
+- [ ] [써니나타스](guide/suninatas.md)
+- [ ] [System32](guide/system32.md)
 
 ## offline study
 
-- [x] [꿈의대학-해킹과보안](Dreamschool-hack-and-security.md)
+- [x] [꿈의대학-해킹과보안](guide/Dreamschool-hack-and-security.md)
