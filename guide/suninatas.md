@@ -2,12 +2,14 @@
 
 ** 써니나타스 suninatas.com **
 
+![](./rankkk.png)
+
 - [ ] Web부분
   - [x] [1번 문제](../suninatas/web/1/Web1.MD)
   - [x] [2번 문제](../suninatas/web/2/Web2.MD)
   - [x] [3번 문제](../suninatas/web/3/Web3.MD)
   - [ ] [4번 문제]
-  - [ ] [5번 문제](../suninatas/web/5/Web5.MD)
+  - [x] [5번 문제](../suninatas/web/5/Web5.MD)
   - [ ] [6번 문제]
   - [x] [7번 문제](../suninatas/web/7/Web7.MD)
   - [ ] [8번 문제]
@@ -40,7 +42,7 @@
   - [ ] [27번 문제]
   
 - [ ] Misc부분
-  - [ ] [12번 문제]
+  - [x] [12번 문제](../suninatas/misc/12/Misc12.MD)
   - [ ] [13번 문제]
   - [x] [17번 문제](../suninatas/misc/17/Misc17.MD)
 
