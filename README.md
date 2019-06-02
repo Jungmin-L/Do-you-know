@@ -1,5 +1,5 @@
 # Do-you-know
-문제풀이 피드백 환영합니다.
+문제풀이 및 공부정리 
 
 ## online study
 
