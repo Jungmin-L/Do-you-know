@@ -7,7 +7,7 @@
   - [x] [2번 문제](../suninatas/web/2/Web2.MD)
   - [x] [3번 문제](../suninatas/web/3/Web3.MD)
   - [ ] [4번 문제]
-  - [ ] [5번 문제]
+  - [ ] [5번 문제](../suninatas/web/5/Web5.MD)
   - [ ] [6번 문제]
   - [x] [7번 문제](../suninatas/web/7/Web7.MD)
   - [ ] [8번 문제]
