@@ -43,6 +43,6 @@
   
 - [ ] Misc부분
   - [x] [12번 문제](../suninatas/misc/12/Misc12.MD)
-  - [x] [13번 문제](../suninatas/misc/12/Misc13.MD)
+  - [x] [13번 문제](../suninatas/misc/13/Misc13.MD)
   - [x] [17번 문제](../suninatas/misc/17/Misc17.MD)
 
