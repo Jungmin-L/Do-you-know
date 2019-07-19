@@ -5,6 +5,8 @@
 
 - [ ] [WebHacking](http://webhacking.kr)
 - [ ] [써니나타스](guide/suninatas.md)
+- [ ] [Pwnable](guide/pwnable.md)
+- [ ] [HackCTF](guide/hackctf.md)
 
 ## study
 
