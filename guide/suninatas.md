@@ -2,8 +2,6 @@
 
 ** 써니나타스 suninatas.com **
 
-![](./rankkk.jpg)
-
 - [ ] Web부분
   - [x] [1번 문제](../suninatas/web/1/Web1.MD)
   - [x] [2번 문제](../suninatas/web/2/Web2.MD)
@@ -32,7 +30,7 @@
   - [x] [29번 문제](../suninatas/forensic/29/forensic29.MD)
   - [ ] [30번 문제]
   - [x] [31번 문제](../suninatas/forensic/31/forensic31.MD)
-  - [ ] [32번 문제]
+  - [x] [32번 문제](../suninatas/forensic/32/forensic32.MD)
   
 - [ ] System부분
   - [ ] [16번 문제]
