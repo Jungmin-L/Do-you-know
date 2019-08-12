@@ -3,9 +3,9 @@
 ** PWNABLE pwnable.kr **
 
 - [ ] Toddler's Bottle
-  - [x] [fd 문제](../suninatas/web/1/Web1.MD)
-  - [x] [collision 문제](../suninatas/web/2/Web2.MD)
-  - [x] [bof 문제](../suninatas/web/3/Web3.MD)
+  - [x] [fd 문제]
+  - [x] [collision 문제]
+  - [x] [bof 문제]
   - [ ] [flag 문제]
   - [ ] [passcode 문제]
   - [ ] [random 문제]
