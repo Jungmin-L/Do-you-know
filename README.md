@@ -4,7 +4,6 @@
 ## problem
 
 - [ ] [써니나타스](guide/suninatas.md)
-- [ ] [A0V3R-WarGame](guide/aover-wargame.md)
 - [ ] [Pwnable](guide/pwnable.md)
 
 ## study
